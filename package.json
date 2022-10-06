@@ -1,5 +1,5 @@
 {
-  "name": "react-styled",
+  "name": "@thoms.dubernet/react-styled",
   "version": "0.0.1",
   "description": "React library component",
   "main": "./lib/index.js",
